@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Walter Api Users</string>
+    <string name="home_question">What do to want to do?</string>
+    <string name="register_a_new_user">Register a new user</string>
+    <string name="register">Register</string>
+    <string name="get_user">Get user</string>
+    <string name="home_screen_text_footer">This app uses Walter API</string>
+    <string name="form_screen_title">Fill the blank spaces</string>
+    <string name="get_user_screen_title">Here is the user</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone number</string>
+    <string name="edit">Edit</string>
+    <string name="Delete">Delete</string>
+    <string name="confirm">Confirm</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="delete_user">Delete user?</string>
+</resources>
